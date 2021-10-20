@@ -1,5 +1,5 @@
 {
-  "name": "09-websocket-server",
+  "name": "10-websocket-queue-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
